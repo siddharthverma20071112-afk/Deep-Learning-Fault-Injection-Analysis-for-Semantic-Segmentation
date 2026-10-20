@@ -173,12 +173,5 @@ When many faults are injected or a large dataset is used, `output_analysis.csv` 
 - `non_critical`: Number of inferences classified as non-critical.
 - `critical`: Number of inferences classified as critical (SDC-1).
 
-## Acknowledgments
 
-This study was carried out within the FAIR - Future Artificial Intelligence Research and received funding from the European Union Next-GenerationEU (PIANO NAZIONALE DI RIPRESA E RESILIENZA (PNRR) – MISSIONE 4 COMPONENTE 2, INVESTIMENTO 1.3 – D.D. 1555 11/10/2022, PE00000013). This manuscript reflects only the authors’ views and opinions; neither the European Union nor the European Commission can be held responsible for them.
-
-## Main Contributors
-- Vittorio Turco (vittorio.turco@polito.it)
-- Annachiara Ruospo (annachiara.ruospo@polito.it)
-- Gabriele Gavarini
 
